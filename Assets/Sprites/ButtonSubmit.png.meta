@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: d1af88ccc434a03499ff5572e3564653
+guid: 0c3558e324ff9f04c911b1a1ea6af931
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8903082085024031168
-    second: SoundOn_0
+      213: -1121512368517477537
+    second: ButtonSubmit_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SoundOn_0
+      name: ButtonSubmit_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 76
-        height: 68
+        width: 148
+        height: 52
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 04e9ff3a306e17480800000000000000
-      internalID: -8903082085024031168
+      spriteID: f5b0f4f51769f60f0800000000000000
+      internalID: -1121512368517477537
       vertices: []
       indices: 
       edges: []

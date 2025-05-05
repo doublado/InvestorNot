@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 44176be04876ca84ab140cc21c4a267a
+guid: a661e31ea86b6c5428a9ed6fc30d0219
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1811119260454078170
-    second: Cogwheel_0
+      213: 7942189066231544040
+    second: ButtonContinue_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Cogwheel_0
+      name: ButtonContinue_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 76
-        height: 68
+        width: 184
+        height: 52
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ad6cb352f53622910800000000000000
-      internalID: 1811119260454078170
+      spriteID: 8e8f8bf40e2583e60800000000000000
+      internalID: 7942189066231544040
       vertices: []
       indices: 
       edges: []
